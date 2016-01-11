@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Human Variome Project Australian Node
+tagline:          'A Jekyll theme'
+description:      Helping Australian diagnostic laboratories deliver better results for patients through secure data sharing.
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
