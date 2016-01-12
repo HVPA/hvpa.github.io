@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: subpage
 title: Data Portal
 ---
 
 ##HVPA Portal
 The HVPA Portal is the front-end to the data in the HVPA Repository. It provides diagnostic laboratory workers, clinicians and genetic counsellors with a set of simple tools to interrogate and view the Australian Node data.
 
-Access to the Portal is restricted to those individuals who meet the conditions outlined in our [Data Access Policy]({{site.baseurl}}data-access).
+Access to the Portal is restricted to those individuals who meet the conditions outlined in our [Data Access Policy]({{site.baseurl}}data/data-access).
 
 ##HVPA Repository
 The HVP Repository is the workhorse of the Australian Node, storing the data submitted by our participating laboratories.

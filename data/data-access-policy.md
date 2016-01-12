@@ -1,9 +1,7 @@
 ---
-layout: page
+layout: subpage
 title: Data Access Policy
 ---
-
-<a href="/web/20150227190742/http://www.hvpaustralia.org.au/data/uploads/policies/hvp_australian_node_data_access_policy.pdf">Download as a PDF</a>
 
 <ol>
 	<li><strong>Statement of General Principles Regarding Data Access</strong>
@@ -17,13 +15,13 @@ title: Data Access Policy
 		<ol>
 			<li>The Human Variome Project Australian Node is a repository of genetic test results and interpretations as reported by diagnostic laboratories within Australia.</li>
 			<li>Access to the data is provided through the Australian Node Portal to diagnostic laboratory workers and clinicians for direct diagnostic/clinical use: determining the classification and consequences of a variant discovered in the genetic sequence of an individual patient.</li>
-			<li>Access to the data for research use is provided through the BioGrid system (<a href="/web/20150227190742/http://www.biogrid.org.au/">http://www.biogrid.org.au</a>) where it can be linked in a de-identified manner with records from other data sources accessible by BioGrid.</li>
+			<li>Access to the data for research use is provided through the BioGrid system (<a href="http://www.biogrid.org.au/">http://www.biogrid.org.au</a>) where it can be linked in a de-identified manner with records from other data sources accessible by BioGrid.</li>
 		</ol>
 	</li>
 	<li><strong>Management Overview</strong>
 		<ol>
 			<li>The Human Variome Project Australian Node is a project maintained by the Department of Pathology of the University of Melbourne.</li>
-			<li>The management structure of the Human Variome Project Australian Node is outlined in full on the Node website (<a href="/web/20150227190742/http://www.hvpaustralia.org.au/">http://www.hvpaustralia.org.au/</a>).
+			<li>The management structure of the Human Variome Project Australian Node is outlined in full on the Node website (<a href="http://www.hvpaustralia.org.au/">http://www.hvpaustralia.org.au/</a>).
 				<ol>
 					<li>The day-to-day operations are of the Node are managed by the Project Director, advised by the Management Advisory Committee.</li>
 					<li>The views of the users of the Node are communicated to the Project Director by the Users Committee, a representative body of the end users of data held by the Node.</li>
@@ -50,7 +48,7 @@ title: Data Access Policy
 			<li>All applications for registration are reviewed and approved by the Australian Node Access Committee.</li>
 			<li>Other individuals with a demonstrable need for access for diagnostic/clinical use may apply to the Australian Node Access Committee for consideration.</li>
 			<li><strong>Research Use</strong></li>
-			<li>Access to the data contained in the Database for use in research projects is possible via the BioGrid service ( <a href="/web/20150227190742/http://www.biogrid.org.au/">http://www.biogrid.org.au</a>), subject to the terms and conditions imposed by BioGrid and a full scientific and ethical review of the proposed research.</li>
+			<li>Access to the data contained in the Database for use in research projects is possible via the BioGrid service ( <a href="http://www.biogrid.org.au/">http://www.biogrid.org.au</a>), subject to the terms and conditions imposed by BioGrid and a full scientific and ethical review of the proposed research.</li>
 			<li>As per the BioGrid Data Access Process, requests for access to the Database for research use will be referred to the Data Access Committee who will engage data submitters in the process of determining access.</li>
 			<li>All publications containing data or analyses consisting of, or derived from, information obtained from the Database must provide acknowledgement of the source of that information.</li>
 		</ol>
@@ -58,7 +56,7 @@ title: Data Access Policy
 	<li><strong>General Conditions of Access</strong>
 		<ol>
 			<li>Access to the Database is only available for demonstrable clinical, diagnostic or research purposes.</li>
-			<li>Users must comply with all applicable privacy legislation, both Federal and State (see <a href="/web/20150227190742/http://www.privacy.gov.au/law">http://www.privacy.gov.au/law</a>) in relation to the use, disclosure and storage of the data obtained from the Database.</li>
+			<li>Users must comply with all applicable privacy legislation, both Federal and State (see <a href="http://www.privacy.gov.au/law">http://www.privacy.gov.au/law</a>) in relation to the use, disclosure and storage of the data obtained from the Database.</li>
 			<li>Users must not distribute data to third parties.</li>
 			<li>Users must ensure their user name and password is secure and is not shared.</li>
 			<li><strong>Diagnostic/Clinical Use</strong></li>
@@ -73,7 +71,7 @@ title: Data Access Policy
 				</ol>
 			</li>
 			<li><strong>Research Use</strong></li>
-			<li>In addition to Paragraphs 5.1 to 5.4 above, access to the Database for research purposes shall be governed by the BioGrid Terms and Conditions (see <a href="/web/20150227190742/http://www.biogrid.org.au/">http://www.biogrid.org.au</a>).</li>
+			<li>In addition to Paragraphs 5.1 to 5.4 above, access to the Database for research purposes shall be governed by the BioGrid Terms and Conditions (see <a href="http://www.biogrid.org.au/">http://www.biogrid.org.au</a>).</li>
 		</ol>
 	</li>
 	<li><strong>Application Process</strong>

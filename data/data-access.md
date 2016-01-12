@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: subpage
 title: Data Access
 ---
+
+- [Data Access Policy](../data-access-policy)
 
 ##Accessing Data
 Access to data in the Australian Node for clinical use is via the Australian Node Portal, a web-based data query system. Access to the portal requires access credentials that are only made available on request to:

@@ -5,7 +5,6 @@ title: Data
 
 - [Data Access](data-access)
 - [Data Dictionary](data-dictionary)
-- [Data Portal](data-portal)
 
 The Australian Node contains information on genetic variants that have been discovered during genetic testing for both diagnostic and research purposes, along with their effects (both known and predicted) on human health.
 
