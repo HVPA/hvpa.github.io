@@ -10,7 +10,7 @@ The Australian Node contains information on genetic variants that have been disc
 
 The data within the Australian Node repositories comes directly from participating laboratories in Australia.
 
-Data upload to the Australian Node repository is initiated by the laboratory staff at their discretion. When initiated, the [HVP Exporter](collection-tools) connects to the labs internal Laboratory Information Management System (LIMS) and extracts a defined set of data elements from new records added to the LIMS since the last upload cycle.
+Data upload to the Australian Node repository is initiated by the laboratory staff at their discretion. When initiated, the [HVP Exporter]({{site.baseurl}}system/collection-tools) connects to the labs internal Laboratory Information Management System (LIMS) and extracts a defined set of data elements from new records added to the LIMS since the last upload cycle.
 
 
 <div class="panel panel-info">
@@ -308,9 +308,9 @@ For each variant to be uploaded to the HVPA Node, a "[Linkage Key](privacy-ethic
 
 ##Data Quality
 
-Maintaining data accuracy (defined as ensuring the data within the repository is described correctly (e.g variants are named according to the Human Genome Variation Society nomenclature system, data is internally consistent, etc.) is achieved via automated means at the time of submission.</p>
+Maintaining data accuracy (defined as ensuring the data within the repository is described correctly (e.g variants are named according to the Human Genome Variation Society nomenclature system, data is internally consistent, etc.) is achieved via automated means at the time of submission.
 
-Data accuracy checks are incorporated into the HVPA Exporter tool and issues are flagged to users before submission takes place. At the repository side, the HVPA Importer tool maps incoming data elements to common reference sequences to ensure internal consistency of naming.</p>
+Data accuracy checks are incorporated into the HVPA Exporter tool and issues are flagged to users before submission takes place. At the repository side, the HVPA Importer tool maps incoming data elements to common reference sequences to ensure internal consistency of naming.
 
 ###Diagnostic Data
 
@@ -318,6 +318,6 @@ For data submitted by diagnostic laboratories (diagnostic data), we assume that 
 
 ###Research Data
 
-Data contributed by laboratories that are not accredited for diagnostic purposes to the Node (research data) undergoes the same accuracy checks as diagnostic data regardless of whether they are submitted through the HVP Exporter or via a bulk, manual upload process. In terms of ensuring data quality, due to the disparate nature of the ways that research data can be generated, assessing data quality in a standardised fashion is difficult.</p>
+Data contributed by laboratories that are not accredited for diagnostic purposes to the Node (research data) undergoes the same accuracy checks as diagnostic data regardless of whether they are submitted through the HVP Exporter or via a bulk, manual upload process. In terms of ensuring data quality, due to the disparate nature of the ways that research data can be generated, assessing data quality in a standardised fashion is difficult.
 
-There are currently no recognised standards for accrediting research data generation practices that can be leveraged to assess the quality of data submitted to the Node. To address this, the Node is working to generate a national data quality standard. Until such time that a standard exists, the Node will continue to clearly differentiate the sources of data contained in the Node to allow users to clearly identify data that has been quality assessed to a recognised standard.</p>
+There are currently no recognised standards for accrediting research data generation practices that can be leveraged to assess the quality of data submitted to the Node. To address this, the Node is working to generate a national data quality standard. Until such time that a standard exists, the Node will continue to clearly differentiate the sources of data contained in the Node to allow users to clearly identify data that has been quality assessed to a recognised standard.
