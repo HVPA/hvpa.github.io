@@ -28,10 +28,10 @@ The pilot phase established and tested software systems for the collection of mo
 
 In September of 2012, the Australian Node Project announced a funding arrangement with the NeCTAR Project to significantly increase the coverage of collection, both in terms of labs and genes, as well as investigate clinical data linkage.
 
-The next phase of development of the HVPA Node will see it able to link with clinical data and to collect and share next-generation sequencing data generated in both clinical and research contexts. We are working out ways in which this genomic –scale data can be safely and securely shared between clinical services to leverage maximum patient benefit from diagnostic genetic information
+The next phase of development of the HVPA Node will see it able to link with clinical data and to collect and share next-generation sequencing data generated in both clinical and research contexts. We are working out ways in which this genomic–scale data can be safely and securely shared between clinical services to leverage maximum patient benefit from diagnostic genetic information
 
 #Source Code
 The software the makes up the Human Variome Project Australian Node system will be released under the open-source MIT license. We're still finalising a few things, but you can expect it to be available via GitHub in the very near future.
 
-#Project Arefacts
+#Project Artefacts
 Developing something like the HVP Australian Node takes more than just some code and a website. A lot of work goes in to things like access policies, governance arrangements and data modelling. In the coming months, we'll start sharing the work we've done in these areas, so that other countries can build on what we've created in Australia.
