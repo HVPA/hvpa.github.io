@@ -44,7 +44,7 @@ Data upload to the Australian Node repository is initiated by the laboratory sta
         </tr>
         <tr>
           <td>Justification for pathogenicity determination</td>
-          <td>Whether organisation has pedigree data/td&gt;</td>
+          <td>Whether organisation has pedigree data</td>
         </tr>
         <tr>
           <td>PubMed/DOI ids for supporting evidence</td>

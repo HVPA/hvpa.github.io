@@ -10,7 +10,7 @@ The Human Variome Project Australian Node is a national data sharing facility fo
 
 The Node consists of a secure, digital data repository and a suite of collection tools. The Australian Nodes has been developed since 2010 with support from Federal Government through the National eResearch Architecture Taskforce (NeAT) and National eResearch Collaboration Tools and Resources (NeCTAR) Projects.
 
-As a Country Node member of the Human Variome Project, the Australian Node is Australia’s contribution to global data collection and sharing efforts.
+As a Country Node member of the Human Variome Project, the Australian Node is Australia's contribution to global data collection and sharing efforts.
 
 ## How it works
 Information on genetic test results and interpretations is automatically collected from participating laboratories in Australia at the same time as a report is issued to the medical practitioner requesting the test. All information that can potentially be used to identify an individual is removed from the record before it is securely transferred to the Node repository.
@@ -28,7 +28,7 @@ The pilot phase established and tested software systems for the collection of mo
 
 In September of 2012, the Australian Node Project announced a funding arrangement with the NeCTAR Project to significantly increase the coverage of collection, both in terms of labs and genes, as well as investigate clinical data linkage.
 
-The next phase of development of the HVPA Node will see it able to link with clinical data and to collect and share next-generation sequencing data generated in both clinical and research contexts. We are working out ways in which this genomic–scale data can be safely and securely shared between clinical services to leverage maximum patient benefit from diagnostic genetic information
+The next phase of development of the HVPA Node will see it able to link with clinical data and to collect and share next-generation sequencing data generated in both clinical and research contexts. We are working out ways in which this genomic-scale data can be safely and securely shared between clinical services to leverage maximum patient benefit from diagnostic genetic information
 
 ## Source Code
 The software the makes up the Human Variome Project Australian Node system will be released under the open-source MIT license. We're still finalising a few things, but you can expect it to be available via GitHub in the very near future.
