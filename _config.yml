@@ -2,6 +2,9 @@
 markdown:         kramdown
 highlighter:      pygments
 
+gems:
+  - jekyll-sitemap
+
 # Permalinks
 permalink:        pretty
 
