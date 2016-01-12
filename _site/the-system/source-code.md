@@ -1,2 +1,0 @@
-Source Code
-The software the makes up the Human Variome Project Australian Node system will be released under the open-source MIT license. We're still finalising a few things, but you can expect it to be available via GitHub in the very near future.

@@ -1,2 +1,0 @@
-Project Arefacts
-Developing somethign like the HVP Australian Node takes more than just some code and a website. A lot of work goes in to things like access policies, governance arrangements and data modelling. In the coming months, we'll start sharing the work we've done in these areas, so that other countries can build on what we've created in Australia.
