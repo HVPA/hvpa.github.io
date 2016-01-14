@@ -8,10 +8,11 @@ title: Data Access
 ##Accessing Data
 Access to data in the Australian Node for clinical use is via the Australian Node Portal, a web-based data query system. Access to the portal requires access credentials that are only made available on request to:
 
-Individuals who are employees of laboratories located in Australia that are recognised by the Royal College of Pathologists of Australasia and/or the National Association of Testing Authorities as conducting genetic testing;
-Individual medical practitioners who are registered with the Medical Board of Australia who can demonstrate a need to access information stored within the Database in order to manage one or more of their current patients; or
-Individuals who have received Board certification or higher from the Human Genetics Society of Australia in the area of genetic counselling.
-Access can be requested online and is governed by the Data Access Policy.
+- Individuals who are employees of laboratories located in Australia that are recognised by the Royal College of Pathologists of Australasia and/or the National Association of Testing Authorities as conducting genetic testing;
+- Individual medical practitioners who are registered with the Medical Board of Australia who can demonstrate a need to access information stored within the Database in order to manage one or more of their current patients; or
+- Individuals who have received Board certification or higher from the Human Genetics Society of Australia in the area of genetic counselling.
+
+Access can be requested [online](http://portal.hvpaustralia.org.au/) and is governed by the [Data Access Policy](../data-access-policy).
 
 Currently access to HVPA Node data is only available for manual querying, but plans are in place to provide automated (or programmatic) access to the data for clinical use.
 
