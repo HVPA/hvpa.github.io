@@ -23,6 +23,8 @@ These laboratories currently contribute data to the HVP Australian Node.
 
 The Australian Node's Governance arrangements are spelt out in the [Human Variome Project Australian Node Governance Framework](/pdf/hvp_australian_node_governance_framework.pdf).
 
+### Previous Committees
+
 ### NeCTAR Project Advisory Committee
 
 - Graham Taylor - Director and Chair
@@ -36,9 +38,6 @@ The Australian Node's Governance arrangements are spelt out in the [Human Variom
 - Nigel Ward (NeCTAR)
 - Val Hyland - Laboratory - Current contributor
 - Maureen Turner - Biogrid
-
-
-### Previous Committees
 
 #### NeAT Steering Committee
 
@@ -98,7 +97,7 @@ VPAC’s core business is in the design, prototyping and production implementati
 
 Over past 11 years, VPAC has developed and implemented in excess of 400 successful software development projects for the Health, Community/Social Services, Primary Industries, Environment, Science and Research, Geo Spatial, and Scientific and Engineering (Manufacturing) sectors. The completed projects range in size from one week, one-person projects to teams of up to seven working for 18 months. It is noteworthy that over this time VPAC has never had a major software project failure&mdash;as measured by large cost or budget overruns or project abandonment. This is all due to the quality of our staff and project management, and use of modern Agile Development methodologies. The average overall feedback rating from VPAC’s customers is 4.5 out of 5 for time, cost and quality. VPAC has won awards for our work in the AutoCRC specifically in the area of collaboration and teamwork with partner organisations in projects. Client testimonials can be released upon request.
 
-### Advanced Computing Research Centre – University of South Australia</h2>
+### Advanced Computing Research Centre – University of South Australia
 <a href="http://www.unisa.edu.au/Research/Advanced-Computing-Research-Centre"><img alt="University of South Australia" src="{{site.baseurl}}img/unisa_logo.png" style="width: 252px; height: 76px; float: right;"></a> is the research concentration of the School of Computer and Information Science and related departments at University of South Australia. Semantic systems group led by Professor Stumptner is active in multiple areas&mdash;both theoretical and applied research. The group has been involved in a large number of government as well as industry funded and partnered research projects including organisations such as SIEMENS, FESTO, Frequentis, Austrian Industries, GM/Holden, VPAC, DSTO, and ANSTO. These projects have led to deployed systems such as the constraint-based LAVA configurator in use at Siemens until 2001 (whose architecture was applied in the commercial ILOG Configurator). Technical systems diagnosis and debugging projects have led to a large number of successful research prototypes or deployed systems in applied knowledge representation in a variety of application areas, e.g., the VHDLDIAG debugging tool at Siemens or the WFCOMP monitoring tool internally deployed at Siemens, the AD2L and DTalk specification languages for diagnosis components, and the JADE prototype for debugging of Java programs, that constitute one of the foremost bodies of work in intelligent debugging and technical diagnosis. Results from an ARC Discovery Project on database integration are were incorporated in an integration tool being developed for the CRC CIEAM (partners ANSTO, Sunwater).
 
 Recently the team developed a prototype of MAWSON: clinical genetic repository ( funded by Quality Use of Pathology Project, Commonwealth Dpt. Of Health and Aging)&mdash;currently tested at Flinders Medical Centre (South Australia) and Familial Cancer Service (Westmead Hospital, Westmead NSW ).
