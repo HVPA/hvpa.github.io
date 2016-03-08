@@ -63,7 +63,7 @@ The data elements required for a submission to the HVPA Node are based primarily
 
 For each variant to be uploaded to the HVPA Node, a "[Linkage Key](privacy-ethics)" is generated. These linkage keys are coded identifiers that are generated from a subset of personally identifying information that have been non-reversibly encrypted. This process allows data within the HVPA Node to be linked at the patient level to records in other datasets without using personally identifying information and thus protecting the privacy and confidentiality of patients.
 
-##Example Record
+## Example Record
 
 <div class="panel panel-info">
   <div class="panel-heading">Variant Instance</div>
@@ -301,22 +301,22 @@ For each variant to be uploaded to the HVPA Node, a "[Linkage Key](privacy-ethic
   </div>
 </div>
 
-##Entity Relationship Diagram
+## Entity Relationship Diagram
 
 ![HVP Australian Node Entity Relationship Diagram](../img/hvpa_erd.png "HVP Australian Node Entity Relationship Diagram")
 
 
-##Data Quality
+## Data Quality
 
 Maintaining data accuracy (defined as ensuring the data within the repository is described correctly (e.g variants are named according to the Human Genome Variation Society nomenclature system, data is internally consistent, etc.) is achieved via automated means at the time of submission.
 
 Data accuracy checks are incorporated into the HVPA Exporter tool and issues are flagged to users before submission takes place. At the repository side, the HVPA Importer tool maps incoming data elements to common reference sequences to ensure internal consistency of naming.
 
-###Diagnostic Data
+### Diagnostic Data
 
 For data submitted by diagnostic laboratories (diagnostic data), we assume that the incoming data is of high quality (which we define as data that has been generated in a manner free from errors such as sequencing artefacts, incorrect calling bases and variants, etc.) due to the regulatory requirements that diagnostic laboratories must meet when generating this data. We purposely collect data from diagnostic labs only after they have reported results to the requesting clinician to ensure we capture the data past the point where changes can be made. If a laboratory subsequently finds that they have made an error in their report, a new report will be issued to the clinician and this new information will subsequently be submitted to the Node during the next data upload phase.
 
-###Research Data
+### Research Data
 
 Data contributed by laboratories that are not accredited for diagnostic purposes to the Node (research data) undergoes the same accuracy checks as diagnostic data regardless of whether they are submitted through the HVP Exporter or via a bulk, manual upload process. In terms of ensuring data quality, due to the disparate nature of the ways that research data can be generated, assessing data quality in a standardised fashion is difficult.
 
